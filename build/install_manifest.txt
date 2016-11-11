@@ -1,0 +1,5 @@
+/home/philipp/torch/install/lib/luarocks/rocks/bm3d/scm-1/lua/bm3d/init.lua
+/home/philipp/torch/install/lib/luarocks/rocks/bm3d/scm-1/lua/bm3d/test.lua
+/home/philipp/torch/install/lib/luarocks/rocks/bm3d/scm-1/lua/bm3d/init.lua
+/home/philipp/torch/install/lib/luarocks/rocks/bm3d/scm-1/lua/bm3d/test.lua
+/home/philipp/torch/install/lib/luarocks/rocks/bm3d/scm-1/lib/libbm3d.so
